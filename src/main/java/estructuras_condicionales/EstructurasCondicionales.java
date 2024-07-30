@@ -9,7 +9,7 @@ import java.util.Scanner;
 public class EstructurasCondicionales {
     public static void main(String[] args) {
        // README: 1 Calculo de cuadernos
-        /*Scanner scanner = new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in);
         System.out.print("Ingrese la cantidad de cuadernos que desea comprar: ");
         int cantidadCuadernos = scanner.nextInt();
         int precioMenor5 = 1200;
@@ -21,7 +21,7 @@ public class EstructurasCondicionales {
             total = cantidadCuadernos * precioMayorIgual5;
         }
         System.out.println("El total a pagar es: $" + total);
-        scanner.close();*/
+        scanner.close();
 
 
         // README: 2 Calculo de Pulsaciones
@@ -92,7 +92,7 @@ public class EstructurasCondicionales {
 
 
         // README: 4 Calculo de pago de vivienda
-        Scanner scanner = new Scanner(System.in);
+        /*Scanner scanner = new Scanner(System.in);
         
         // Solicitar el costo de la vivienda
         System.out.print("Ingrese el costo de la vivienda: ");
@@ -132,7 +132,7 @@ public class EstructurasCondicionales {
         System.out.printf("Pago mensual: $%.2f%n", pagoMensual);
         
         // Cerrar el scanner
-        scanner.close();
+        scanner.close();*/
         
         // README: 5 Calculo ṕago de computadores
         /*Scanner scanner = new Scanner(System.in);

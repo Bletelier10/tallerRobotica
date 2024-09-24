@@ -1,4 +1,22 @@
-<div align=center>
+
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://i.postimg.cc/sxh5R9Vg/Java.png" width="150px" />
+      </td>
+      <td>
+        <img src="https://i.postimg.cc/wjcMYsHQ/Apache-Netbeans.png" width="150px" />
+      </td>
+      <td>
+        <img src="https://i.postimg.cc/kXtn2xRM/requests-sidebar.png" width="150px" />
+      </td>
+      <td>
+        <img src="https://i.postimg.cc/MG60jQY9/github.png" width="150px" />
+      </td>
+    </tr>
+  </tbody>
+</table><div align=center>
 
 # Programación Estructurada [Java](https://www.djangoproject.com/) &middot; [<img src="https://i.postimg.cc/wT4x8tWS/codepenblanco.png" alt="LinkedIn" class="footer-nav__link-image" height="30px" />](https://codepen.io/amarianjel/)   [<img src="https://i.postimg.cc/5NBMxTJX/github.png" alt="GitHub" class="footer-nav__link-image" height="30px" />](https://github.com/amarianjel)   [<img src="https://i.postimg.cc/1Xj3mL3G/github-Pages-blanco.png" alt="GitHub" class="footer-nav__link-image" height="70px" style="margin-bottom: -20px;"/>](https://amarianjel.github.io/Portfolio/)  [<img src="https://i.postimg.cc/J7BLFtdc/linkedin.png" alt="LinkedIn" class="footer-nav__link-image" height="30px" />](https://www.linkedin.com/in/amarianjel/)   [<img src="https://i.postimg.cc/1zqYRTyp/facebook.png" alt="LinkedIn" class="footer-nav__link-image" height="30px" />](https://www.facebook.com/Abraham13071993/)   [<img src="https://i.postimg.cc/sfJtqS4W/instagram.png" alt="Instagram" class="footer-nav__link-image" height="30px" />](https://www.instagram.com/abr_marianjel/)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/django/django)
@@ -20,8 +38,19 @@
 [Leer como instalar Java en Windows](https://www.java.com/es/download/ie_manual.jsp)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-## 📑 Programación estructurada 📑
-La programación estructurada es un paradigma de programación que enfatiza la claridad, el uso de estructuras de control y la modularidad. Entre sus componentes clave se encuentran las estructuras condicionales (como if-else), que permiten ejecutar diferentes bloques de código en función de ciertas condiciones. Los ciclos (como for y while) facilitan la repetición de tareas hasta que se cumpla una condición específica. El uso del switch proporciona una manera ordenada de manejar múltiples condiciones basadas en el valor de una variable. Los arreglos son estructuras de datos que almacenan múltiples elementos del mismo tipo en una secuencia ordenada, mientras que las matrices extienden este concepto a múltiples dimensiones, permitiendo organizar datos en forma de tablas. Las funciones son bloques de código reutilizables que permiten descomponer un programa en tareas más pequeñas y manejables, promoviendo la reutilización y facilitando el mantenimiento del código. En conjunto, estos elementos forman la base de la programación estructurada, promoviendo la escritura de código claro, eficiente y fácil de entender.
+## 🧱 Taller De Robotic 🧱
+Un taller de LEGO en programación es una actividad educativa en la que se utilizan piezas de LEGO junto con herramientas de programación para enseñar conceptos básicos de robótica, ingeniería y programación.
+
+Estos talleres suelen involucrar kits como LEGO Mindstorms o LEGO Education SPIKE, que permiten a los participantes construir robots o máquinas utilizando piezas de LEGO y luego programarlas para realizar tareas específicas. A través de la programación visual o en bloques (como Scratch o el entorno de LEGO), los usuarios pueden dar instrucciones al robot, aprender sobre sensores, motores y la lógica básica de la programación, todo en un entorno lúdico y práctico.
+
+Este tipo de talleres es ideal para introducir a niños y principiantes en el mundo de la tecnología, ya que combina el juego con el aprendizaje estructurado.
+
+
+
+
+
+
+
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -30,33 +59,15 @@ La programación estructurada es un paradigma de programación que enfatiza la c
 <table>
   <thead>
     <tr>
-      <th>Java</th>
-      <th>Netbeans</th>
-      <th>Git</th>
-      <th>Github</th>
+      <th>Lego >
+     
+     
+     
     </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <img src="https://i.postimg.cc/sxh5R9Vg/Java.png" width="150px" />
-      </td>
-      <td>
-        <img src="https://i.postimg.cc/wjcMYsHQ/Apache-Netbeans.png" width="150px" />
-      </td>
-      <td>
-        <img src="https://i.postimg.cc/kXtn2xRM/requests-sidebar.png" width="150px" />
-      </td>
-      <td>
-        <img src="https://i.postimg.cc/MG60jQY9/github.png" width="150px" />
-      </td>
-    </tr>
-  </tbody>
-</table>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-# 🚀 Clonar el repositorio del Liceo 🚀
+# 🚀Clonar El Repositorio Del Taller De Robotica🚀
 1. Instala `Git` en tu pc, accediendo a la pagina oficial para descargarlo.
 
 2. Accede a `Github` con tus credenciales y entra al repositorio de la organización. Luego clonalo en tu dispositivo.
@@ -115,12 +126,24 @@ git checkout nombre-de-la-rama
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-### Sintaxis
-| **NOMBRE** | **SÍMBOLO** |
-|--------|--------|
-| *add* | agregar archivos |
-| *commit* | unificar los archivos agregados por add, ahora estarán comprometidos |
-| *push* | subir el commit local al remoto en la nube |
+# Comparativa: Taller de Robótica con LEGO
+
+Aquí encontrarás una tabla comparativa que evalúa diferentes aspectos de un **taller de robótica con LEGO** en comparación con otros enfoques.
+
+| **Criterio**                          | **Taller de Robótica con LEGO**                          | **Taller de Robótica con Arduino**                    | **Taller de Robótica con Raspberry Pi**              |
+|----------------------------------------|----------------------------------------------------------|-------------------------------------------------------|------------------------------------------------------|
+| **Kit de robótica utilizado**          | LEGO Mindstorms o LEGO SPIKE                             | Arduino (placa + componentes)                         | Raspberry Pi (mini computadora)                      |
+| **Dificultad inicial**                 | Baja a media (dependiendo de la complejidad del proyecto) | Media (requiere conocimientos básicos de electrónica) | Media a alta (requiere conocimientos de Linux y Python) |
+| **Programación**                       | Visual (Scratch) o Python                                | C/C++, Python                                         | Python, Scratch, otros lenguajes                     |
+| **Componentes de hardware**            | Motores, sensores preconfigurados                        | Sensores y actuadores personalizados                  | Módulos, sensores y cámaras variados                 |
+| **Enfoque educativo**                  | Lúdico, basado en construcción y programación visual     | Electrónica y programación                            | Computación, electrónica avanzada                    |
+| **Público objetivo**                   | Niños y principiantes                                    | Estudiantes de nivel intermedio                       | Estudiantes avanzados y profesionales                |
+| **Tiempo de preparación**              | Corto (las piezas son fáciles de ensamblar)              | Medio (requiere ensamblar componentes y cableado)     | Medio a largo (requiere configuración de software y hardware) |
+| **Flexibilidad de proyectos**          | Limitada a las piezas LEGO disponibles                   | Alta, dependiendo de los componentes utilizados       | Alta, con múltiples proyectos posibles               |
+| **Precio promedio**                    | Medio a alto (kits de LEGO son costosos)                 | Bajo a medio                                          | Medio (Raspberry Pi + componentes)                   |
+| **Objetivos de aprendizaje**           | Introducción a la robótica, programación básica y lógica | Programación, circuitos, electrónica básica           | Computación, automatización, programación avanzada   |
+| **Tipo de taller**                     | Basado en tareas predefinidas y exploración creativa     | Enfocado en aprender electrónica y lógica             | Desarrollo de proyectos complejos y personalizados   |
+
 
 
 ## 🏫 Librerias adicionales 🏫
@@ -164,4 +187,3 @@ java-structured_programming/
 |   ├── test-classes
 ├── porn.xml
 ├── README.md
-└── ...
